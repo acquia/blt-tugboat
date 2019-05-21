@@ -1,0 +1,10 @@
+{
+  "name": "acquia/blt-tugboat",
+  "description": "Tugboat integration for Acquia BLT",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Acquia\\BltTugboat\\": "./src/"
+    }
+  }
+}
