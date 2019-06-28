@@ -5,6 +5,7 @@
   "autoload": {
     "psr-4": {
       "Acquia\\BltTugboat\\": "./src/"
-    }
+    },
+    "classmap":["src/Blt/Plugin/EnvironmentDetector/TugboatDetector.php"]
   }
 }
