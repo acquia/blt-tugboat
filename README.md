@@ -1,7 +1,9 @@
 Acquia BLT Tugboat integration
 ====
 
-This is a **community-supported** BLT plugin providing Tugboat integration. It is provided with no warranty or support. Contributions in the form of pull requests are welcome.
+This is a BLT plugin providing Tugboat integration.
+
+This plugin is **community-created** and **community-supported**. Acquia does not provide any direct support for this software or provide any warranty as to its stability.
 
 ## Installation and usage
 
