@@ -9,7 +9,7 @@ class TugboatDetector extends EnvironmentDetector {
     return isset($_ENV['TUGBOAT_URL']) ? 'tugboat' : null;
   }
 
-  public static function getCiSettingsFile() {
+  public static function getCiSettingsFile(): string {
     return sprintf('%s/vendor/acquia/blt-tugboat/settings/tugboat.settings.php', dirname(DRUPAL_ROOT));
   }
 }
